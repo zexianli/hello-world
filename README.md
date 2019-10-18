@@ -1,2 +1,5 @@
 # hello-world
-Repo for CS361
+
+Hello
+
+I'm currently a student at OSU in my junior year.
